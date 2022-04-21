@@ -89,3 +89,24 @@
 .colz .colz-icon i:hover {
     transform: scale(1.5)
 }
+
+@media screen and (max-width: 1110px) {
+    .profile-picture {
+        margin: 0 0px 0 50px;
+    }
+    
+    .profile-details-name {
+        font-size: 25px;
+    }
+
+    .profile-details-role h1 {
+        font-size: 40px;
+    }
+
+    .profile-options .btn {
+        width: 120px;
+        padding: 11px;
+        z-index: 700;
+    }
+}
+
