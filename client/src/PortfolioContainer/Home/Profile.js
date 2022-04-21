@@ -41,7 +41,7 @@ export default function Profile() {
                 />
               </h1>
               <span className="profile-role-tagline">
-                Put something here....
+                “When I wrote this code, only God and I understood what I did. Now only God knows.”              
               </span>
             </span>
           </div>
