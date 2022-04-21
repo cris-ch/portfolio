@@ -47,6 +47,9 @@ export default function Profile() {
                         {" "}
                         Hire Me{" "}
                     </button>
+                    <a href="cv.pdf" download="Cristian M. Christensen CV.pdf">
+                        <button className="btn highlighted-btn">Get CV</button>
+                    </a>
                 </div>
             </div>
         </div>
