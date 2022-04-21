@@ -37,7 +37,16 @@ export default function Profile() {
                             ]}
                             />
                         </h1>
+                        <span className="profile-role-tagline">
+                            Put something here....
+                        </span>
                     </span>
+                </div>
+                <div className="profile-options">
+                    <button className="btn primary-btn">
+                        {" "}
+                        Hire Me{" "}
+                    </button>
                 </div>
             </div>
         </div>
